@@ -12,6 +12,7 @@ def summon_captain_planet(array)
 end
 
 def long_planeteer_calls(array)
+  assorted_words = ["two", "go", "industrious", "bop"]
   longer_than_four_letters = true
   
 end
